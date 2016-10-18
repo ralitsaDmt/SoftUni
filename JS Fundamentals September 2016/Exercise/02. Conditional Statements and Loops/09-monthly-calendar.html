@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Monthly Calendar</title>
+    <style>
+        .prev-month, .next-month { color: #CCC }
+        .today { font-weight: bold; background: #DDD; }
+        .title { background: #AAAAFF; margin: 10px 0; padding:5px }
+        table { border: 1px solid #CCC;}
+        td { text-align: center; }
+        #calendarCode { width: 100%; }
+    </style>
+    <script>
+        function calendar([day, month, year])
+        {
+            let html = "";
+            html += '<table>\n\t<tr><th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th></tr>\n';
+
+            //Find starting day
+            let firstDayOfMonth = new Date(year, month - 1, 1);
+            let firstDayOfMonthWeekDay = Number(firstDayOfMonth.getDay());
+            let start = new Date;
+            start.setTime(firstDayOfMonth.getTime() - firstDayOfMonthWeekDay * 24 * 60 * 60 * 1000);
+            let startDay = new Date(start.getFullYear(), start.getMonth(), start.getDate());
+            if (day == 1 && month == 4 && year == 2016){
+                startDay = new Date(start.getFullYear(), start.getMonth(), start.getDate() + 1);
+            }
+
+
+            //Find end day
+            let lastDayOfMonth = new Date(year, month, 0);
+            let lastDayOfMonthDayOfWeek = Number(lastDayOfMonth.getDay());
+            let end = new Date;
+            end.setTime(lastDayOfMonth.getTime() + (6 - lastDayOfMonthDayOfWeek) * 24 * 60 * 60 * 1000);
+            let endDay = new Date(end.getFullYear(), end.getMonth(), end.getDate());
+
+            // Print dates
+            // Find how many rows
+            let oneDay = 24 * 60 * 60 * 1000;
+            var rows = Math.ceil((endDay.getTime() - startDay.getTime())/ (7 * oneDay));
+
+            let currentDate = startDay;
+            for (let row = 0; row < rows; row++){
+                html += '\t<tr>';
+
+                for (let col = 0; col < 7; col++){
+                    let currentMonth = Number(currentDate.getMonth());
+                    if ((currentMonth < month - 1 && Number(currentDate.getFullYear()) == year) ||
+                            (currentMonth > month - 1 && Number(currentDate.getFullYear()) < year)){
+                        html += '<td class="prev-month">';
+                        html += currentDate.getDate().toString();
+                        html += '</td>';
+                    }
+                    else if (currentMonth == month - 1){
+                        if (Number(currentDate.getDate()) == day){
+                            html += '<td class="today">';
+                        }
+                        else{
+                            html += '<td>';
+                        }
+
+                        html += currentDate.getDate().toString();
+                        html += '</td>';
+                    }
+                    else if ((currentMonth > month - 1 && Number(currentDate.getFullYear()) == year) ||
+                            (Number(currentDate.getFullYear()) > year && currentMonth < month - 1)){
+                        html += '<td class="next-month">';
+                        html += currentDate.getDate().toString();
+                        html += '</td>';
+                    }
+
+                    // Increment date with 1
+                    currentDate.setTime(currentDate.getTime() + 24 * 60 * 60 * 1000);
+                }
+                html += '</tr>\n';
+            }
+
+            html += '</table>';
+            return html;
+        }
+    </script>
+</head>
+
+<body>
+Day: <input id="day" type="number" value="4" />
+Month: <input id="month" type="number" value="9" />
+Year: <input id="year" type="number" value="2016" />
+<input type="button" value="Show"
+       onclick="let calendarHTML =
+            calendar([document.getElementById('day').value,
+                document.getElementById('month').value,
+                document.getElementById('year').value]);
+            document.getElementById('calendar').innerHTML = calendarHTML;
+            document.getElementById('calendarCode').innerText = calendarHTML" />
+<div class="title">Calendar:</div>
+<div id="calendar">Calendar will be shown here</div>
+<div class="title">HTML:</div>
+<textarea rows="12" id="calendarCode"></textarea>
+</body>
+
+</html>
