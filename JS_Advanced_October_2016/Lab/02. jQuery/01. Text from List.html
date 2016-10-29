@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+</head>
+<body>
+<!--<p>This is a <a href="https://softuni.bg">link</a>.-->
+<!--</p><ul><li>one</li><li>two</li><li>three</li></ul>-->
+
+<ul id="items">
+    <li>First</li>
+    <li>Second</li>
+    <li>Third</li>
+    <li>Fourth</li>
+    <li>Fifth</li>
+</ul>
+
+<div id="result"></div>
+
+<button id="showItems"></button>
+
+<script>
+    $(document).ready(function () {
+        $('#showItems').click(extractText);
+
+        function extractText() {
+            let itemsJoined = $('ul#items li')
+                            .toArray()
+                            .map(li => li.textContent)
+                            .join(", ");
+            $('#result').text(itemsJoined);
+        }
+    });
+
+//    $(() => {
+//        $("body *").click(function (event) {
+//        $(this).fadeOut();
+//        $(document.body).append("Removed: " + this + "<br>\n");
+//        event.preventDefault();
+//        event.stopPropagation();
+//    });
+//    });kur
+
+//    $(() => {
+//        $('<div>Кур</div>').appendTo($('body'));
+//    });
+</script>
+</body>
+</html>
