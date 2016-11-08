@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":[],"mappings":"AAAA,IAAI,WAAW,QAAQ,YAAR,CAAf;AACA,IAAI,YAAY,QAAQ,aAAR,CAAhB;;AAEA,OAAO,QAAP,GAAkB,QAAlB;AACA,OAAO,SAAP,GAAmB,SAAnB","file":"app-compiled.js","sourcesContent":["let Checkbox = require('./checkbox');\r\nlet Numberbox = require('./numberbox');\r\n\r\nresult.Checkbox = Checkbox;\r\nresult.Numberbox = Numberbox;"]}

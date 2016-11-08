@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":[],"mappings":"AAAA,IAAI,SAAS,QAAQ,UAAR,CAAb;AACA,IAAI,OAAO,QAAQ,QAAR,CAAX;;AAEA,OAAO,MAAP,GAAgB,MAAhB;AACA,OAAO,IAAP,GAAc,IAAd","file":"app-compiled.js","sourcesContent":["let Person = require('./person');\r\nlet Post = require('./post');\r\n\r\nresult.Person = Person;\r\nresult.Post = Post;"]}
