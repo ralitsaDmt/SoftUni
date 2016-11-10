@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Modular DOM</title>
+    <style>
+        #wrapper {
+            width: 800px;
+        }
+
+        .header {
+            background-color: #ff9999;
+            color: white;
+        }
+
+        .title {
+            left: 80px;
+            font-size: 24px;
+            font-family: "Helvetica", sans-serif;
+            line-height: 40px;
+            margin-left: 24px;
+        }
+
+        .menu-link {
+            color: black;
+            font-family: "Helvetica", sans-serif;
+            text-decoration: none;
+            font-weight: 600;
+            display: inline-block;
+            padding: 2px 6px 2px 6px;
+            margin: 2px 6px 2px 6px;
+        }
+
+        .menu-link:hover {
+            color: #ff9999;
+            background-color: white;
+        }
+
+        .post {
+            margin: 48px;
+        }
+
+        footer {
+            text-align: center;
+            background-color: #ff9999;
+            color: white;
+            height: 40px;
+        }
+
+        .article {
+            border: 1px solid black;
+            margin: 36px;
+        }
+
+        .article-title {
+            background-color: #ff9999;
+            padding: 6px 0 6px 24px;
+            font-family: "Helvetica", sans-serif;
+            font-size: 18px;
+        }
+
+        .article p {
+            margin: 24px;
+            text-align: justify;
+        }
+
+        .image {
+            margin: 24px;
+            text-align: center;
+        }
+
+        table{
+            margin: auto;
+            margin-bottom: 24px;
+            border-collapse: collapse;
+            border: 1px solid black;
+        }
+
+        th {
+            text-align: center;
+        }
+
+         tr, td, th {
+             padding: 2px 4px 2px 4px;
+             margin: 0;
+             border: 1px solid black;
+         }
+    </style>
+</head>
+<body>
+<div id="wrapper">
+    <div id="head">
+        <header class="header">
+            <div><span class="title">Title Bar Problem</span></div>
+            <div>
+                <nav class="menu">
+                    <a class="menu-link" href="/">Home</a>|
+                    <a class="menu-link" href="about">About</a>|
+                    <a class="menu-link" href="results">Results</a>|
+                    <a class="menu-link" href="faq">FAQ</a>
+                </nav>
+            </div>
+        </header>
+    </div>
+    <main id="content">
+        <div class="article">
+            <div class="article-title">What is Lorem Ipsum?</div>
+            <div class="image"><img src="src/lorem.png"></div>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+                industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and
+                scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap
+                into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the
+                release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing
+                software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+        </div>
+        <div class="article">
+            <div class="article-title">Where does it come from?</div>
+            <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical
+                Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at
+                Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a
+                Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the
+                undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et
+                Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the
+                theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor
+                sit amet..", comes from a line in section 1.10.32.</p>
+            <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections
+                1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact
+                original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+        </div>
+        <div class="article">
+            <div class="article-title">Why do we use it?</div>
+            <p>It is a long established fact that a reader will be distracted by the readable content of a page when
+                looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution
+                of letters, as opposed to using 'Content here, content here', making it look like readable English. Many
+                desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a
+                search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have
+                evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+            <div class="table">
+                <table class="data">
+                    <tbody><tr><th>Order ID</th><th>Status</th><th>Ship To</th><th>Lat Long</th></tr>
+                    <tr><td>CRA9938</td><td>delivered</td><td>Baku</td><td>53.80 33.21</td></tr>
+                    <tr><td>KNQ5876</td><td>processing</td><td>Yerevan</td><td>50.25 31.37</td></tr>
+                    <tr><td>JZH6615</td><td>processing</td><td>London</td><td>54.74 -1.79</td></tr>
+                    <tr><td>FMU7330</td><td>delivered</td><td>Brussels</td><td>63.22 34.78</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+    <footer>Copyright &copy; 2016 The Shoemaker Company</footer>
+</div>
+</body>
+</html>
