@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bus Stop</title>
+    <style>
+        #stopName {
+            font-size: 1.5em;
+            font-weight: 400;
+            padding: 0.25em;
+            background-color: aquamarine;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="stopInfo" style="width:20em">
+    <div>
+        <label for="stopId">Stop ID: </label>
+        <input id="stopId" type="text">
+        <input id="submit" type="button" value="Check" onclick="getInfo()"></div>
+    <div id="result">
+        <div id="stopName"></div>
+        <ul id="buses"></ul>
+    </div>
+</div>
+<script>
+    function getInfo() {
+        let stopId = $('#stopId').val();
+
+        let url = "https://judgetests.firebaseio.com/businfo/" + stopId + ".json ";
+
+        let request = {
+            url: url,
+            success: displayBuses,
+            error: displayError
+        };
+
+        $('#stopName').empty();
+        $('#buses').empty();
+        $.ajax(request);
+
+        function displayBuses(data) {
+
+            let stopName = data.name;
+            let buses = data.buses;
+
+            if (typeof stopName !== 'string' || typeof buses !== 'object'){
+                displayError();
+            }
+
+            $('#stopName').text(stopName);
+
+            for (let busId in buses){
+                if (isNaN(busId)|| isNaN(buses[busId])){
+                    displayError();
+                }
+                let info = `Bus ${busId} arrives in ${buses[busId]} minutes`;
+
+                $('#buses').append($('<li>').text(info));
+            }
+        }
+        
+        function displayError() {
+            $('#stopName').text("Error");
+        }
+    }
+</script>
+</body>
+</html>

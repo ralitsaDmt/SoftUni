@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+
+    <button id="btnDisplayCountries">Display countries</button>
+    <div>
+        <label>Country name: </label>
+        <input type="text" id="countryName">
+    </div>
+
+    <button id="btnAddCountry">Add country</button>
+
+    <div id="displayCountries"></div>
+
+    <button id="btnSelectCountry">Select Country</button>
+    <select id="countries"></select>
+
+    <button id="btnViewTowns">View Towns</button>
+    <div>
+        <label>Town name: </label>
+        <input type="text" id="townName">
+    </div>
+
+    <button id="btnAddTown">Add town</button>
+
+    <div id="displayTowns"></div>
+
+    <script src="countries.js"></script>
+    <script src="towns.js"></script>
+
+    <script>solveCountries()</script>
+    <script>solveTowns()</script>
+
+</body>
+</html>
