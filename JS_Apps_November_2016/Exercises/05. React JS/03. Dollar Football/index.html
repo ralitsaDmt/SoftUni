@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shit</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://unpkg.com/react@15.4.0/dist/react.js"></script>
+    <script src="https://unpkg.com/react-dom@15.4.0/dist/react-dom.js"></script>
+    <script src="https://unpkg.com/babel-standalone"></script>
+</head>
+<body>
+
+    <div id="app"></div>
+
+<!--<script src="scripts/script.js"></script>-->
+
+    <script type="text/babel">
+        let url = "https://baas.kinvey.com/appdata/kid_BJe588Szx/football-matches";
+        let headers = {
+            "Authorization": "Basic Z3Vlc3Q6Z3Vlc3Q=",
+            "Content-Type": "application/json"
+        };
+
+        class AppView extends React.Component{
+            render(){
+                return(
+                        <div className="wrapper">
+                            <header>
+                                <div>Dollar Football</div>
+                            </header>
+                            <ButtonsControls />
+                            <div className="content-holder">
+                            </div>
+                        </div>
+                )
+            }
+        }
+
+        class ButtonsControls extends React.Component{
+            handleBet(){
+                alert("bet");
+            }
+
+            showMatches(){
+                $.ajax({
+                    method: 'GET',
+                    url: url,
+                    headers: headers,
+                    success: function (data) {
+                        ReactDOM.render(
+                                <MatchesTable elements={data} />,
+                            document.getElementsByClassName('content-holder')[0]
+                        )
+                    },
+                    error: function (err) {
+                        console.log(err);
+                    }
+                })
+            }
+
+            render(){
+                return(
+                        <div className="button-holder">
+                            <button id="bets" className="button" onClick={this.handleBet}>My Bets</button>
+                            <button id="matches" className="button" onClick={this.showMatches}>Matches</button>
+                        </div>
+                )
+            }
+        }
+
+        class MatchesTable extends React.Component{
+            render(){
+                return <div>Matches come here</div>
+            }
+        }
+
+        ReactDOM.render(
+                <AppView />,
+            document.getElementById('app')
+        )
+
+    </script>
+</body>
+</html>
