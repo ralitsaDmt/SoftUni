@@ -1,0 +1,1 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\Exercise Fetching Resultsets\Introduction to DB Apps\2. Get Villains’ Names\bin\Debug\_2.Get_Villains__Names.exe.config

@@ -1,0 +1,14 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.ConsoleClient\bin\Debug\Hospital.ConsoleClient.exe.config
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.ConsoleClient\bin\Debug\Hospital.ConsoleClient.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.ConsoleClient\bin\Debug\Hospital.ConsoleClient.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.ConsoleClient\bin\Debug\Hospital.Data.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.ConsoleClient\bin\Debug\Hospital.Models.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.ConsoleClient\bin\Debug\Hospital.Data.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.ConsoleClient\bin\Debug\Hospital.Models.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.ConsoleClient\obj\Debug\Hospital.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.ConsoleClient\obj\Debug\Hospital.ConsoleClient.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.ConsoleClient\obj\Debug\Hospital.ConsoleClient.pdb

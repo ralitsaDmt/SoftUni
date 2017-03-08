@@ -1,0 +1,14 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.ConsoleClient\bin\Debug\Hotel.ConsoleClient.exe.config
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.ConsoleClient\bin\Debug\Hotel.ConsoleClient.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.ConsoleClient\bin\Debug\Hotel.ConsoleClient.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.ConsoleClient\bin\Debug\Hotel.Data.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.ConsoleClient\bin\Debug\Hotel.Models.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.ConsoleClient\bin\Debug\Hotel.Data.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.ConsoleClient\bin\Debug\Hotel.Models.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.ConsoleClient\obj\Debug\Hotel.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.ConsoleClient\obj\Debug\Hotel.ConsoleClient.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.ConsoleClient\obj\Debug\Hotel.ConsoleClient.pdb

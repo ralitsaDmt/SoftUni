@@ -1,0 +1,10 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Ads\bin\Debug\Ads.exe.config
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Ads\bin\Debug\Ads.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Ads\bin\Debug\Ads.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Ads\bin\Debug\EntityFramework.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Ads\bin\Debug\EntityFramework.SqlServer.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Ads\bin\Debug\EntityFramework.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Ads\bin\Debug\EntityFramework.SqlServer.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Ads\obj\Debug\Ads.csprojResolveAssemblyReference.cache
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Ads\obj\Debug\Ads.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Ads\obj\Debug\Ads.pdb

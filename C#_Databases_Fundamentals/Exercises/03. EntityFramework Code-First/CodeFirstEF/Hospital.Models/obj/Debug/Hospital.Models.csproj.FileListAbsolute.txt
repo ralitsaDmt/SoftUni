@@ -1,0 +1,5 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.Models\bin\Debug\Hospital.Models.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.Models\bin\Debug\Hospital.Models.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.Models\obj\Debug\Hospital.Models.csprojResolveAssemblyReference.cache
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.Models\obj\Debug\Hospital.Models.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hospital.Models\obj\Debug\Hospital.Models.pdb

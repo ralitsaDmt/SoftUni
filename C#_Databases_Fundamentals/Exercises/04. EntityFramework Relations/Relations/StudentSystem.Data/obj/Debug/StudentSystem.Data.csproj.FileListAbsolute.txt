@@ -1,0 +1,17 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.Data\bin\Debug\EntityFramework.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.Data\bin\Debug\StudentSystem.Models.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.Data\bin\Debug\StudentSystem.Models.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.Data\bin\Debug\EntityFramework.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.Data\obj\Debug\StudentSystem.Data.Migrations.MakeBithdateNullable.resources
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.Data\obj\Debug\StudentSystem.Data.csproj.GenerateResource.Cache
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.Data\obj\Debug\StudentSystem.Data.Migrations.AddMaxLenghtToStudentName.resources
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.Data\obj\Debug\StudentSystem.Data.Migrations.SeedTestData.resources
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.Data\obj\Debug\StudentSystem.Data.Migrations.AddResourceLicenses.resources

@@ -1,0 +1,5 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.Models\bin\Debug\Hotel.Models.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.Models\bin\Debug\Hotel.Models.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.Models\obj\Debug\Hotel.Models.csprojResolveAssemblyReference.cache
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.Models\obj\Debug\Hotel.Models.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Hotel.Models\obj\Debug\Hotel.Models.pdb

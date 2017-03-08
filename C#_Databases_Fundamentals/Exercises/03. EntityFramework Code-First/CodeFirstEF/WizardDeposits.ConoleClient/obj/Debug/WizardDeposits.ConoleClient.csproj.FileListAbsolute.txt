@@ -1,0 +1,14 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\WizardDeposits.ConoleClient\bin\Debug\WizardDeposits.ConoleClient.exe.config
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\WizardDeposits.ConoleClient\bin\Debug\WizardDeposits.ConoleClient.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\WizardDeposits.ConoleClient\bin\Debug\WizardDeposits.ConoleClient.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\WizardDeposits.ConoleClient\bin\Debug\EntityFramework.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\WizardDeposits.ConoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\WizardDeposits.ConoleClient\bin\Debug\WizardDeposits.Data.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\WizardDeposits.ConoleClient\bin\Debug\WizardDeposits.Models.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\WizardDeposits.ConoleClient\bin\Debug\WizardDeposits.Data.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\WizardDeposits.ConoleClient\bin\Debug\WizardDeposits.Models.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\WizardDeposits.ConoleClient\bin\Debug\EntityFramework.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\WizardDeposits.ConoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\WizardDeposits.ConoleClient\obj\Debug\WizardDeposits.ConoleClient.csprojResolveAssemblyReference.cache
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\WizardDeposits.ConoleClient\obj\Debug\WizardDeposits.ConoleClient.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\WizardDeposits.ConoleClient\obj\Debug\WizardDeposits.ConoleClient.pdb

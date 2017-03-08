@@ -1,0 +1,5 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Models\obj\Debug\Movie.Models.csprojResolveAssemblyReference.cache
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Models\bin\Debug\Movie.Models.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Models\bin\Debug\Movie.Models.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Models\obj\Debug\Movie.Models.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Models\obj\Debug\Movie.Models.pdb

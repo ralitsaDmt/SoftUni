@@ -1,0 +1,1 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. EntityFramework Code-First\CodeFirstEF\Sale.ConsoleClinet\bin\Debug\Sale.ConsoleClinet.exe.config

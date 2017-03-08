@@ -1,0 +1,16 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\test\bin\Debug\test.exe.config
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\test\bin\Debug\test.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\test\bin\Debug\test.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\test\bin\Debug\Newtonsoft.Json.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\test\bin\Debug\Newtonsoft.Json.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\test\obj\Debug\test.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\test\obj\Debug\test.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\test\bin\Debug\Movie.ConsoleClient.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\test\bin\Debug\Movie.Data.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\test\bin\Debug\Movie.Models.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\test\bin\Debug\EntityFramework.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\test\bin\Debug\Movie.ConsoleClient.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\test\bin\Debug\Movie.Data.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\test\bin\Debug\Movie.Models.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\test\bin\Debug\EntityFramework.xml

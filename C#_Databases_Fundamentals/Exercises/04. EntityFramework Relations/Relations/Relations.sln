@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Code First Student System", "01. Code First Student System", "{2055F944-8E07-4514-B098-D85A752DC3C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentSystem.Models", "StudentSystem.Models\StudentSystem.Models.csproj", "{BA5544D1-DCAA-4CD1-A5B3-71ACF857499C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentSystem.Data", "StudentSystem.Data\StudentSystem.Data.csproj", "{5F310BC3-3C19-442D-A95B-4F40A5560169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentSystem.ConsoleClient", "StudentSystem.ConsoleClient\StudentSystem.ConsoleClient.csproj", "{46EE892D-B294-47A0-B3B5-30C384AEFD17}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11. FootballBetingDB", "11. FootballBetingDB", "{6D1FB1F6-FDEF-4ABB-BF7F-40936765EB84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballBets.Models", "FootballBets.Models\FootballBets.Models.csproj", "{83A3E402-D5EA-43B1-9C81-82095E30B77A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballBets.Data", "FootballBets.Data\FootballBets.Data.csproj", "{F9E7F9FE-29BA-4AFD-ADDF-1C54ADBAEE60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FootballBets.ConsoleClient", "FootballBets.ConsoleClient\FootballBets.ConsoleClient.csproj", "{5A2F3436-A37D-4910-8CA5-2C882806AB28}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12. BillsPaymentSystem", "12. BillsPaymentSystem", "{EDF50667-8E53-4588-9D43-B69738116D1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillsPayment.Models", "BillsPayment.Models\BillsPayment.Models.csproj", "{937A48A7-DAA4-4B87-BF98-A00BF5948D7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillsPayment.Data", "BillsPayment.Data\BillsPayment.Data.csproj", "{FE230BE5-4166-45AF-9868-6AA0DD788A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillsPayment.ConsoleClient", "BillsPayment.ConsoleClient\BillsPayment.ConsoleClient.csproj", "{7314ADB9-2CDE-4949-8D2B-2333507B022D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA5544D1-DCAA-4CD1-A5B3-71ACF857499C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5544D1-DCAA-4CD1-A5B3-71ACF857499C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5544D1-DCAA-4CD1-A5B3-71ACF857499C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5544D1-DCAA-4CD1-A5B3-71ACF857499C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F310BC3-3C19-442D-A95B-4F40A5560169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F310BC3-3C19-442D-A95B-4F40A5560169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F310BC3-3C19-442D-A95B-4F40A5560169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F310BC3-3C19-442D-A95B-4F40A5560169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46EE892D-B294-47A0-B3B5-30C384AEFD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46EE892D-B294-47A0-B3B5-30C384AEFD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46EE892D-B294-47A0-B3B5-30C384AEFD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46EE892D-B294-47A0-B3B5-30C384AEFD17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A3E402-D5EA-43B1-9C81-82095E30B77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A3E402-D5EA-43B1-9C81-82095E30B77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A3E402-D5EA-43B1-9C81-82095E30B77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A3E402-D5EA-43B1-9C81-82095E30B77A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9E7F9FE-29BA-4AFD-ADDF-1C54ADBAEE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E7F9FE-29BA-4AFD-ADDF-1C54ADBAEE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E7F9FE-29BA-4AFD-ADDF-1C54ADBAEE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E7F9FE-29BA-4AFD-ADDF-1C54ADBAEE60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A2F3436-A37D-4910-8CA5-2C882806AB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2F3436-A37D-4910-8CA5-2C882806AB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2F3436-A37D-4910-8CA5-2C882806AB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2F3436-A37D-4910-8CA5-2C882806AB28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{937A48A7-DAA4-4B87-BF98-A00BF5948D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937A48A7-DAA4-4B87-BF98-A00BF5948D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937A48A7-DAA4-4B87-BF98-A00BF5948D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937A48A7-DAA4-4B87-BF98-A00BF5948D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE230BE5-4166-45AF-9868-6AA0DD788A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE230BE5-4166-45AF-9868-6AA0DD788A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE230BE5-4166-45AF-9868-6AA0DD788A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE230BE5-4166-45AF-9868-6AA0DD788A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7314ADB9-2CDE-4949-8D2B-2333507B022D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7314ADB9-2CDE-4949-8D2B-2333507B022D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7314ADB9-2CDE-4949-8D2B-2333507B022D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7314ADB9-2CDE-4949-8D2B-2333507B022D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BA5544D1-DCAA-4CD1-A5B3-71ACF857499C} = {2055F944-8E07-4514-B098-D85A752DC3C9}
+		{5F310BC3-3C19-442D-A95B-4F40A5560169} = {2055F944-8E07-4514-B098-D85A752DC3C9}
+		{46EE892D-B294-47A0-B3B5-30C384AEFD17} = {2055F944-8E07-4514-B098-D85A752DC3C9}
+		{83A3E402-D5EA-43B1-9C81-82095E30B77A} = {6D1FB1F6-FDEF-4ABB-BF7F-40936765EB84}
+		{F9E7F9FE-29BA-4AFD-ADDF-1C54ADBAEE60} = {6D1FB1F6-FDEF-4ABB-BF7F-40936765EB84}
+		{5A2F3436-A37D-4910-8CA5-2C882806AB28} = {6D1FB1F6-FDEF-4ABB-BF7F-40936765EB84}
+		{937A48A7-DAA4-4B87-BF98-A00BF5948D7B} = {EDF50667-8E53-4588-9D43-B69738116D1A}
+		{FE230BE5-4166-45AF-9868-6AA0DD788A36} = {EDF50667-8E53-4588-9D43-B69738116D1A}
+		{7314ADB9-2CDE-4949-8D2B-2333507B022D} = {EDF50667-8E53-4588-9D43-B69738116D1A}
+	EndGlobalSection
+EndGlobal

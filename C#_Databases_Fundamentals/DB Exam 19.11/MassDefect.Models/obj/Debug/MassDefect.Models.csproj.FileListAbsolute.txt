@@ -1,0 +1,5 @@
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.Models\bin\Debug\MassDefect.Models.dll
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.Models\bin\Debug\MassDefect.Models.pdb
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.Models\obj\Debug\MassDefect.Models.csprojResolveAssemblyReference.cache
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.Models\obj\Debug\MassDefect.Models.dll
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.Models\obj\Debug\MassDefect.Models.pdb

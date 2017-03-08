@@ -1,0 +1,16 @@
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\PerformTasks\bin\Debug\PerformTasks.exe.config
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\PerformTasks\bin\Debug\PerformTasks.exe
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\PerformTasks\bin\Debug\PerformTasks.pdb
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\PerformTasks\bin\Debug\EntityFramework.dll
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\PerformTasks\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\PerformTasks\bin\Debug\MassDefect.Data.dll
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\PerformTasks\bin\Debug\MassDefect.Models.dll
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\PerformTasks\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\PerformTasks\bin\Debug\MassDefect.Data.pdb
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\PerformTasks\bin\Debug\MassDefect.Models.pdb
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\PerformTasks\bin\Debug\EntityFramework.xml
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\PerformTasks\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\PerformTasks\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\PerformTasks\obj\Debug\PerformTasks.csprojResolveAssemblyReference.cache
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\PerformTasks\obj\Debug\PerformTasks.exe
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\PerformTasks\obj\Debug\PerformTasks.pdb

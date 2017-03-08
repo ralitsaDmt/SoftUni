@@ -1,0 +1,14 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe.config
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Models.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Models.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.pdb

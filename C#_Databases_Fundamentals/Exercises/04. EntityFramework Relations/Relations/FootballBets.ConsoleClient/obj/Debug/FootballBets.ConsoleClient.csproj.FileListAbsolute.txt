@@ -1,0 +1,14 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.ConsoleClient\bin\Debug\FootballBets.ConsoleClient.exe.config
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.ConsoleClient\bin\Debug\FootballBets.ConsoleClient.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.ConsoleClient\bin\Debug\FootballBets.ConsoleClient.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.ConsoleClient\bin\Debug\FootballBets.Data.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.ConsoleClient\bin\Debug\FootballBets.Models.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.ConsoleClient\bin\Debug\FootballBets.Data.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.ConsoleClient\bin\Debug\FootballBets.Models.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.ConsoleClient\obj\Debug\FootballBets.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.ConsoleClient\obj\Debug\FootballBets.ConsoleClient.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.ConsoleClient\obj\Debug\FootballBets.ConsoleClient.pdb

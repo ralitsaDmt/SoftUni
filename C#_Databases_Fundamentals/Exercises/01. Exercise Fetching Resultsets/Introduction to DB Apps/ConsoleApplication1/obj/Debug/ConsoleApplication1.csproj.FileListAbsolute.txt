@@ -1,0 +1,1 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\Exercise Fetching Resultsets\Introduction to DB Apps\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config

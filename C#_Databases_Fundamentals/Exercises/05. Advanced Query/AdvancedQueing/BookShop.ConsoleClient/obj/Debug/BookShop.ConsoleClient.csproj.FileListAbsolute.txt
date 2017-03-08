@@ -1,0 +1,14 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\BookShop.ConsoleClient\bin\Debug\BookShop.ConsoleClient.exe.config
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\BookShop.ConsoleClient\bin\Debug\BookShop.ConsoleClient.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\BookShop.ConsoleClient\bin\Debug\BookShop.ConsoleClient.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\BookShop.ConsoleClient\bin\Debug\BookShop.Data.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\BookShop.ConsoleClient\bin\Debug\BookShop.Models.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\BookShop.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\BookShop.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\BookShop.ConsoleClient\bin\Debug\BookShop.Data.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\BookShop.ConsoleClient\bin\Debug\BookShop.Models.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\BookShop.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\BookShop.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\BookShop.ConsoleClient\obj\Debug\BookShop.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\BookShop.ConsoleClient\obj\Debug\BookShop.ConsoleClient.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\BookShop.ConsoleClient\obj\Debug\BookShop.ConsoleClient.pdb

@@ -1,0 +1,6 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\Exercise Fetching Resultsets\Introduction to DB Apps\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\Exercise Fetching Resultsets\Introduction to DB Apps\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\Exercise Fetching Resultsets\Introduction to DB Apps\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\Exercise Fetching Resultsets\Introduction to DB Apps\ConsoleApplication1\obj\Debug\01. Initial Setup.csprojResolveAssemblyReference.cache
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\Exercise Fetching Resultsets\Introduction to DB Apps\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\Exercise Fetching Resultsets\Introduction to DB Apps\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

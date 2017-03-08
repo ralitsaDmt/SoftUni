@@ -1,0 +1,14 @@
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.ConsoleClient\bin\Debug\MassDefect.ConsoleClient.exe.config
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.ConsoleClient\obj\Debug\MassDefect.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.ConsoleClient\bin\Debug\MassDefect.ConsoleClient.exe
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.ConsoleClient\bin\Debug\MassDefect.ConsoleClient.pdb
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.ConsoleClient\bin\Debug\MassDefect.Data.dll
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.ConsoleClient\bin\Debug\MassDefect.Models.dll
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.ConsoleClient\bin\Debug\MassDefect.Data.pdb
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.ConsoleClient\bin\Debug\MassDefect.Models.pdb
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.ConsoleClient\obj\Debug\MassDefect.ConsoleClient.exe
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\MassDefect.ConsoleClient\obj\Debug\MassDefect.ConsoleClient.pdb

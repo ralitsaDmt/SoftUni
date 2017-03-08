@@ -1,0 +1,14 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Data\obj\Debug\Movie.Data.csprojResolveAssemblyReference.cache
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Data\bin\Debug\Movie.Data.dll.config
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Data\bin\Debug\Movie.Data.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Data\bin\Debug\Movie.Data.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Data\bin\Debug\EntityFramework.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Data\bin\Debug\Movie.Models.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Data\bin\Debug\Movie.Models.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Data\bin\Debug\EntityFramework.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Data\obj\Debug\Movie.Data.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Data\obj\Debug\Movie.Data.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Data\bin\Debug\Newtonsoft.Json.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\05. Advanced Query\AdvancedQueing\Movie.Data\bin\Debug\Newtonsoft.Json.xml

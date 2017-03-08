@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Initial Setup", "ConsoleApplication1\01. Initial Setup.csproj", "{51EC41F1-40B6-4A36-8B93-A9EC7CA409C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Get Villains’ Names", "2. Get Villains’ Names\02. Get Villains’ Names.csproj", "{F790B78F-7B8B-45C5-B817-B90458B73467}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51EC41F1-40B6-4A36-8B93-A9EC7CA409C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EC41F1-40B6-4A36-8B93-A9EC7CA409C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EC41F1-40B6-4A36-8B93-A9EC7CA409C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EC41F1-40B6-4A36-8B93-A9EC7CA409C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F790B78F-7B8B-45C5-B817-B90458B73467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F790B78F-7B8B-45C5-B817-B90458B73467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F790B78F-7B8B-45C5-B817-B90458B73467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F790B78F-7B8B-45C5-B817-B90458B73467}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

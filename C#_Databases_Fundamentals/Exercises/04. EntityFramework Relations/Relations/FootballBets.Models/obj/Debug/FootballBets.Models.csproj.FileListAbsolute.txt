@@ -1,0 +1,5 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.Models\bin\Debug\FootballBets.Models.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.Models\bin\Debug\FootballBets.Models.pdb
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.Models\obj\Debug\FootballBets.Models.csprojResolveAssemblyReference.cache
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.Models\obj\Debug\FootballBets.Models.dll
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\FootballBets.Models\obj\Debug\FootballBets.Models.pdb

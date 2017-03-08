@@ -1,0 +1,2 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\06. Best Practices\07. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\PhotoShare.Client.exe.config
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\06. Best Practices\Best-Practices-and-Architecture\PhotoShare.Client\bin\Debug\PhotoShare.Client.exe.config

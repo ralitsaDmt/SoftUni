@@ -1,0 +1,1 @@
+D:\DB Fundamentals\Databases Advanced - Entity Framework\Exercises\04. EntityFramework Relations\Relations\BillsPayment.ConsoleClient\bin\Debug\BillsPayment.ConsoleClient.exe.config

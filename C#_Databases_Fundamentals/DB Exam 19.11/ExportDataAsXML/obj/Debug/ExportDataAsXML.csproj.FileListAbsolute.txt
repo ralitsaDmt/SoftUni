@@ -1,0 +1,13 @@
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\ExportDataAsXML\bin\Debug\ExportDataAsXML.exe.config
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\ExportDataAsXML\bin\Debug\ExportDataAsXML.exe
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\ExportDataAsXML\bin\Debug\ExportDataAsXML.pdb
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\ExportDataAsXML\bin\Debug\EntityFramework.dll
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\ExportDataAsXML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\ExportDataAsXML\bin\Debug\MassDefect.Data.dll
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\ExportDataAsXML\bin\Debug\MassDefect.Models.dll
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\ExportDataAsXML\bin\Debug\MassDefect.Data.pdb
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\ExportDataAsXML\bin\Debug\MassDefect.Models.pdb
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\ExportDataAsXML\bin\Debug\EntityFramework.xml
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\ExportDataAsXML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\ExportDataAsXML\obj\Debug\ExportDataAsXML.exe
+C:\Users\Raly\Desktop\DB Exam 19.11\DB Exam 19.11\ExportDataAsXML\obj\Debug\ExportDataAsXML.pdb

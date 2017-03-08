@@ -1,0 +1,154 @@
+namespace Movie.Data.Migrations
+{
+    using System;
+    using System.Collections.Generic;
+    using System.Data.Entity;
+    using System.Data.Entity.Migrations;
+    using System.IO;
+    using System.Linq;
+    using ConsoleClient.ImportModels;
+    using Models;
+    using Newtonsoft.Json;
+
+    internal sealed class Configuration : DbMigrationsConfiguration<global::Movie.Data.MovieContext>
+    {
+        public Configuration()
+        {
+            this.AutomaticMigrationsEnabled = false;
+            this.ContextKey = "Movie.Data.MovieContext";
+        }
+
+        protected override void Seed(MovieContext context)
+        {
+            this.ImportCountries(context);
+            this.ImportUsers(context);
+            this.ImportMovies(context);
+            this.ImportMovieRatings(context);
+            this.ImportFavouriteMovies(context);
+        }
+
+        private void ImportFavouriteMovies(MovieContext context)
+        {
+            string text =
+                File.ReadAllText(
+                    "D:\\DB Fundamentals\\Databases Advanced - Entity Framework\\Exercises\\05. Advanced Query\\data\\users-and-favourite-movies.json");
+
+            List<ImportUserMovie> userMovies = JsonConvert.DeserializeObject<List<ImportUserMovie>>(text);
+
+            foreach (ImportUserMovie userMovie in userMovies)
+            {
+                User user = this.FindUserByName(userMovie.Username, context);
+
+                foreach (var importIsbn in userMovie.FavouriteMovies)
+                {
+                    user.Movies.Add(this.FindMovieByIsbn(importIsbn, context));
+                }
+            }
+
+            context.SaveChanges();
+        }
+
+        private void ImportMovieRatings(MovieContext context)
+        {
+            string text =
+    File.ReadAllText(
+        "D:\\DB Fundamentals\\Databases Advanced - Entity Framework\\Exercises\\05. Advanced Query\\data\\movie-ratings.json");
+
+            List<ImportMovieRating> textRaitings = JsonConvert.DeserializeObject<List<ImportMovieRating>>(text);
+
+            foreach (ImportMovieRating textRaiting in textRaitings)
+            {
+                Raiting raiting = new Raiting()
+                {
+                    Rate = textRaiting.Rating,
+                    Movie = this.FindMovieByIsbn(textRaiting.Movie, context),
+                    User = this.FindUserByName(textRaiting.User, context)
+                };
+
+                context.Raitings.AddOrUpdate(raiting);
+            }
+
+            context.SaveChanges();
+        }
+
+        private User FindUserByName(string importUsername, MovieContext context)
+        {
+            return context.Users.FirstOrDefault(u => u.Username == importUsername);
+        }
+
+        private Movie FindMovieByIsbn(string isbn, MovieContext context)
+        {
+            return context.Movies.FirstOrDefault(m => m.isbn == isbn);
+        }
+
+        private void ImportMovies(MovieContext context)
+        {
+            string text = File.ReadAllText(
+        "D:\\DB Fundamentals\\Databases Advanced - Entity Framework\\Exercises\\05. Advanced Query\\data\\movies.json");
+
+            List<ImportMovie> textMovies = JsonConvert.DeserializeObject<List<ImportMovie>>(text);
+
+            foreach (ImportMovie textMovie in textMovies)
+            {
+                Movie movie = new Movie()
+                {
+                    isbn = textMovie.Isbn,
+                    Title = textMovie.Title,
+                    AgeRestriction = (AgeRestriction)textMovie.AgeRestriction
+                };
+                context.Movies.AddOrUpdate(movie);
+            }
+
+            context.SaveChanges();
+        }
+
+        private void ImportUsers(MovieContext context)
+        {
+            string text =
+                File.ReadAllText(
+                    "D:\\DB Fundamentals\\Databases Advanced - Entity Framework\\Exercises\\05. Advanced Query\\data\\users.json");
+
+            List<ImportUser> textUsers = JsonConvert.DeserializeObject<List<ImportUser>>(text);
+
+            foreach (ImportUser textUser in textUsers)
+            {
+                User user = new User()
+                {
+                    Username = textUser.Username,
+                    Age = textUser.Age,
+                    Email = textUser.Email,
+                    Country = this.FindCountryByName(textUser.Country, context)
+                };
+                context.Users.AddOrUpdate(user);
+            }
+
+            context.SaveChanges();
+        }
+
+        private Country FindCountryByName(string countryName, MovieContext context)
+        {
+            return context.Countries.FirstOrDefault(c => c.Name == countryName);
+        }
+
+        private void ImportCountries(MovieContext context)
+        {
+            string text =
+                File.ReadAllText(
+                    "D:\\DB Fundamentals\\Databases Advanced - Entity Framework\\Exercises\\05. Advanced Query\\data\\countries.json");
+
+            List<ImportCountry> textCountries = JsonConvert.DeserializeObject<List<ImportCountry>>(text);
+
+            foreach (ImportCountry textCountry in textCountries)
+            {
+                Country country = new Country()
+                {
+                    Name = textCountry.Name
+                };
+
+                context.Countries.Add(country);
+            }
+
+            context.SaveChanges();
+        }
+    }
+}
