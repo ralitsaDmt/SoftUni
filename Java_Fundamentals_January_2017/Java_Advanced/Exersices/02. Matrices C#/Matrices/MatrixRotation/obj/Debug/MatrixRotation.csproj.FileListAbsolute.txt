@@ -1,0 +1,6 @@
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\MatrixRotation\bin\Debug\MatrixRotation.exe.config
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\MatrixRotation\bin\Debug\MatrixRotation.exe
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\MatrixRotation\bin\Debug\MatrixRotation.pdb
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\MatrixRotation\obj\Debug\MatrixRotation.csprojResolveAssemblyReference.cache
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\MatrixRotation\obj\Debug\MatrixRotation.exe
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\MatrixRotation\obj\Debug\MatrixRotation.pdb

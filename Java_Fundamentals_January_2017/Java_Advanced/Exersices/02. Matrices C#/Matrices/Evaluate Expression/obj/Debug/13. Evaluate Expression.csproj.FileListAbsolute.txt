@@ -1,0 +1,6 @@
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Evaluate Expression\bin\Debug\Evaluate Expression.exe.config
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Evaluate Expression\bin\Debug\Evaluate Expression.exe
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Evaluate Expression\bin\Debug\Evaluate Expression.pdb
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Evaluate Expression\obj\Debug\13. Evaluate Expression.csprojResolveAssemblyReference.cache
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Evaluate Expression\obj\Debug\Evaluate Expression.exe
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Evaluate Expression\obj\Debug\Evaluate Expression.pdb

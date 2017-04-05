@@ -1,0 +1,5 @@
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Stack Fibonacci\bin\Debug\Stack Fibonacci.exe.config
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Stack Fibonacci\bin\Debug\Stack Fibonacci.exe
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Stack Fibonacci\bin\Debug\Stack Fibonacci.pdb
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Stack Fibonacci\obj\Debug\Stack Fibonacci.exe
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Stack Fibonacci\obj\Debug\Stack Fibonacci.pdb

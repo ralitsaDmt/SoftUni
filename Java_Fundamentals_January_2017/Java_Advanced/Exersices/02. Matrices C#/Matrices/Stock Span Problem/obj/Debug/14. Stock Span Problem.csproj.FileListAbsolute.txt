@@ -1,0 +1,6 @@
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Stock Span Problem\bin\Debug\Stock Span Problem.exe.config
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Stock Span Problem\bin\Debug\Stock Span Problem.exe
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Stock Span Problem\bin\Debug\Stock Span Problem.pdb
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Stock Span Problem\obj\Debug\14. Stock Span Problem.csprojResolveAssemblyReference.cache
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Stock Span Problem\obj\Debug\Stock Span Problem.exe
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Stock Span Problem\obj\Debug\Stock Span Problem.pdb

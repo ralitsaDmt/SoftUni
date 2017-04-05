@@ -1,0 +1,6 @@
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Infix to Postfix\bin\Debug\Infix to Postfix.exe.config
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Infix to Postfix\bin\Debug\Infix to Postfix.exe
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Infix to Postfix\bin\Debug\Infix to Postfix.pdb
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Infix to Postfix\obj\Debug\12. Infix to Postfix.csprojResolveAssemblyReference.cache
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Infix to Postfix\obj\Debug\Infix to Postfix.exe
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Infix to Postfix\obj\Debug\Infix to Postfix.pdb

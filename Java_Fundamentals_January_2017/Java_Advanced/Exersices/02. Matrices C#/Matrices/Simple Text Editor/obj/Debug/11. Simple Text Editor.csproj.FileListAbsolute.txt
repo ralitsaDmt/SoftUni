@@ -1,0 +1,5 @@
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Simple Text Editor\bin\Debug\Simple Text Editor.exe.config
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Simple Text Editor\bin\Debug\Simple Text Editor.exe
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Simple Text Editor\bin\Debug\Simple Text Editor.pdb
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Simple Text Editor\obj\Debug\Simple Text Editor.exe
+D:\Java Fundamentals\Exersices\02. Matrices C#\Matrices\Simple Text Editor\obj\Debug\Simple Text Editor.pdb
